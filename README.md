@@ -13,7 +13,7 @@ target_directory = '/path/to/destination/'
 parsing_depth = 6
 ```
 
-Thees variables are everything you need to specify to start working.
+Theese variables are everything you need to specify to start working.
 
 - `markdown_file_path` - is a path to the file that starts the tree
 - `source_directory` - is where your vault lies
